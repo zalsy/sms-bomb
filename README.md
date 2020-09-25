@@ -4,9 +4,11 @@
 Для установки у вас должен быть python3.7 или выше; 
 Установка на Линукс/Termux - этой командой:
 
-```pip3.7 install sms-bomb.```
+```pip3.7 install sms-bomb```
+
 На Windows:
-```pip install sms-bomb.```
+
+```pip install sms-bomb```
 
 # Использование
 Вот самый простой пример использования библиотеки:
